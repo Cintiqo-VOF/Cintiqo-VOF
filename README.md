@@ -1,7 +1,1 @@
-- Cintiqo vof main brain
-- no loose files, all code should be in organized folders
-- possible organisation structures:
-  - a file for every story in a folder named after the epic
-  - Organized by main project ("Website", "api" "GUI" "platform")
-  - Can this be automated?
-- Suggestions?
+- Cintiqo vof profile
